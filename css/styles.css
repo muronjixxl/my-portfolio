@@ -1,12 +1,11 @@
-body{
-    background-color:dimgray;
-}
-.body{
-    text-align: left;
-    color: floralwhite;
-}
 pre{
     border: 2px;
     padding: 6px;
     margin: 20px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
 }
