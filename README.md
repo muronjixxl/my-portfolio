@@ -15,5 +15,5 @@ There are no known bugs.
 ## Support and contact details
 In case of any inquiries <a href="mailto: faith.muronji@student.moringaschool.com">email us today</a>
 ### License
-*[MIT]()
+*[MIT](https://github.com/muronjixxl/my-portfolio/blob/main/license)
 Copyright (c) {2021}
