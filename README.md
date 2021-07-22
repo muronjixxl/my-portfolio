@@ -1,5 +1,5 @@
 # PORTFOLIO
-#### 9/7/2021
+#### 18/7/2021
 #### By Faith Muronji
 ## Description
 This is a website that contains my portfolio
@@ -15,5 +15,5 @@ There are no known bugs.
 ## Support and contact details
 In case of any inquiries <a href="mailto: faith.muronji@student.moringaschool.com">email us today</a>
 ### License
-[MIT](https://github.com/muronjixxl/my-portfolio/blob/main/license)
+[MIT](https://github.com/muronjixxl/learn-your-akan-name/blob/main/license)
 Copyright (c) {2021}
